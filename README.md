@@ -1,1 +1,2 @@
 # Medical-Supply-Management-System
+A Medical Supply Management System (MSMS) is a software application designed to streamline the procurement, inventory, distribution, and tracking of medical supplies and equipment within healthcare facilities such as hospitals, clinics, and pharmacies. It helps in managing the lifecycle of medical supplies, ensuring that the right products are available at the right time, and minimizing stockouts or wastage.
